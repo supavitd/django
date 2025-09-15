@@ -401,6 +401,11 @@ Validators
 
 * ...
 
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
+
 .. _backwards-incompatible-6.0:
 
 Backwards incompatible changes in 6.0
